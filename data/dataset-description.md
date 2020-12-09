@@ -14,3 +14,16 @@
 * Chimpanzees were followed by a researcher daily ... (?)
 * Number of individual chimpanzees in these recordings: **8 males, 6 females, 6 young chimpanzees**
 * Labels: names of individuals, types of calls (7 distinct types)
+      The information contained in the filenames:
+      * PH = pant hoot
+      * SM = scream
+      * TB = buttress drumming (non-vocal sound)
+      * AB = bark
+      * GR = grunt
+      * FG = food grunts
+      * PG = pant grunts
+
+      Shorthand for individuals' names:    
+      Males: WOO (woodstock), KUB (Kuba), UTA (utan), JAC (Jacobo), ROM (Romario), IBR (Ibrahim), SHO (Shogun), CAR (Caramel) (note: the last three were very young at the time of the study)   
+      Females: SUM (Sumatra), JUL (Julia), ISH (Isha), KIN (Kinshasa), MBE (Mbeli), BIE (Bienvenue)    
+      YOUNG: Ravel, Oscar, Wala, Java, Ithaca, Kirikou
